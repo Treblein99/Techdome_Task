@@ -2,15 +2,15 @@
 
 Step 1: Clone the repository
 ```
-git clone https://github.com/Surbhit01/Amazon-Alexa-Reviews.git
+git clone https://github.com/Treblein99/Techdome_Task.git
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
 ```
-conda create -n amazonreview python=3.10
+conda create -p venv python==3.10 -y
 ```
 ```
-conda activate amazonreview
+conda activate venv/
 ```
 
 Step 3: Install the requirements file
