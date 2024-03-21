@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify, send_file, render_template
+import flask_cors
 import re
 from io import BytesIO
 
